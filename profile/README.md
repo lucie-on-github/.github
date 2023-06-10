@@ -1,5 +1,9 @@
 # Lucie
-A Discord bot by Bolo & Prozilla.
+Your one-stop Discord bot solution.
 
-🔗 [Invite Lucy](https://discord.com/oauth2/authorize?client_id=1096138573788491887&scope=bot&applications.commands)
-🔗 [Join official Discord server](https://discord.gg/yA8999PTzY)
+
+## Links
+- 🔗 [Add to server](https://lucie.gg/invite)
+- 🔗 [Website](https://lucie.gg/)
+- 🔗 [Patreon](https://lucie.gg/patreon)
+- 🔗 [Join Discord server](https://lucie.gg/server)
